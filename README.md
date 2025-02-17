@@ -27,8 +27,6 @@ Outside of work, I explore **performance optimization, scientific computing, and
 - **Fractal Generator** *(Private)* – rendering mathematical structures efficiently.  
 - **Private repositories** – I’m polishing several projects and plan to make them public in the coming weeks!  
 
----
-
 ## 📚 Currently Learning  
 - **.NET & WPF architecture** – deepening my knowledge of MVVM, async programming, and scalable UI patterns.  
 - **GitHub Actions** – automating workflows and CI/CD for projects.  
