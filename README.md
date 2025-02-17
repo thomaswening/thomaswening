@@ -11,8 +11,6 @@ I develop software for **data management and automation in life sciences**, part
 ➡️ **For professional repositories and work-related projects, check out my other GitHub profile:**  
 [**thomaswening-work**](https://github.com/thomaswening-work) *(Currently no public repositories)*  
 
----
-
 ## 🚀 What I Work on Privately  
 Outside of work, I explore **performance optimization, scientific computing, and software security**, with projects in:  
 - **Scientific computing & numerical integration** – implementing Monte Carlo methods and other computational techniques.  
