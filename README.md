@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Thomas Wening!  
-I’m a **Software Developer** with a background in **physics (M.Sc.)**, specializing in **C#, .NET, and Python**.  
+I’m a **Software Developer** with a background in **physics (M.Sc.)**, specializing in **C#/.NET**.  
 
 ## 💻 Professional Work  
 I develop software for **data management and automation in life sciences**, particularly in **high-content screening (HCS) and image-based analysis**. My work focuses on:  
