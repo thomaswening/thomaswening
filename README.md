@@ -23,10 +23,10 @@ And other times, I just like to experiment and play around…
 ### 🛠️ Current Projects  
 - **[ContactKeeper](https://github.com/thomaswening/ContactKeeper)** – a WPF-based contact management app using MaterialDesign.
 - **[Salter](https://github.com/thomaswening/salter)** – a console app exploring core security and user management concepts in .NET.  
+- **[PhaseShift](https://github.com/thomaswening/PhaseShift/tree/main)** – a stylish productivity timer app for developers, with Pomodoro, stopwatch, and custom timer modes.
 
 ### 🔧 Work in Progress *(not yet public or on hold)*  
 - **[Notepad Clone](https://github.com/thomaswening/NotePadClone)** – a lightweight, dark-mode-friendly text editor for Windows 10 *(on hold)*.  
-- **Pomodoro Timer** – a time management tool for focused work sessions.  
 - **Background Job Dispatcher** – Inspired by a topic from my workplace, I’m implementing this from scratch to learn about logging, data integrity, efficient high-volume data transfer, reporting, and interprocess communication. *(I plan to develop a simple client to define jobs to run.)*  
 - **Monte Carlo Integration Module** – A Python module comprising Monte Carlo integrators with different sampling algorithms, along with mathematical benchmarks against exact values.  
 
