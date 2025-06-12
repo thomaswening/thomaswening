@@ -2,9 +2,9 @@
 I’m a **Software Developer** with a background in **physics (M.Sc.)**, specializing in **C#/.NET**.  
 
 ## 💻 Professional Work  
-I develop software for **data management and automation in life sciences**, particularly in **high-content screening (HCS) and image-based analysis**. My work focuses on:  
-- **Building and optimizing WPF applications** for laboratory environments.  
-- **Handling large-scale experimental data**, integrating with databases and analytical tools.  
+I develop software for **data management and automation in life sciences**, particularly in **high-content screening (HCS) and image-based analysis**. My work currently focuses on:  
+- **Building and optimizing WPF and WinForms applications** for laboratory environments.
+- **Handling large-scale experimental data**, integrating with databases, file storage and analytical tools.  
 - **Enhancing image processing and analysis workflows** to support research and diagnostics.  
 - **Designing robust, scalable architectures** for scientific software solutions.  
 
@@ -21,9 +21,9 @@ And other times, I just like to experiment and play around…
 *(Yes, that’s a [Sierpinski carpet](https://www.wikiwand.com/en/articles/Sierpinski_carpet).)*  
 
 ### 🛠️ Current Projects  
-- **[ContactKeeper](https://github.com/thomaswening/ContactKeeper)** – a WPF-based contact management app using MaterialDesign.
-- **[Salter](https://github.com/thomaswening/salter)** – a console app exploring core security and user management concepts in .NET.  
 - **[PhaseShift](https://github.com/thomaswening/PhaseShift/tree/main)** – a stylish productivity timer app for developers, with Pomodoro, stopwatch, and custom timer modes.
+- **[Salter](https://github.com/thomaswening/salter)** – a console app exploring core security and user management concepts in .NET.  
+- **[ContactKeeper](https://github.com/thomaswening/ContactKeeper)** – a WPF-based contact management app using MaterialDesign.
 
 ### 🔧 Work in Progress *(not yet public or on hold)*  
 - **[Notepad Clone](https://github.com/thomaswening/NotePadClone)** – a lightweight, dark-mode-friendly text editor for Windows 10 *(on hold)*.  
@@ -31,10 +31,8 @@ And other times, I just like to experiment and play around…
 - **Monte Carlo Integration Module** – A Python module comprising Monte Carlo integrators with different sampling algorithms, along with mathematical benchmarks against exact values.  
 
 ## 📚 Currently Learning  
-- **.NET & WPF architecture** – refining MVVM, async programming, and scalable UI patterns.  
-- **GitHub Actions** – automating workflows and CI/CD pipelines.  
-- **Software architecture & maintainability** – designing scalable, maintainable systems.  
-- **Scientific computing** – Monte Carlo integration, sampling algorithms, and Runge-Kutta methods.
+- **GitHub Actions** – automating workflows and CI/CD pipelines.
+- **Scientific computing with C++20** – Monte Carlo integration, sampling algorithms, and Runge-Kutta methods.
 
 ### 📖 What I Want to Learn
 - **Scientific computing with C++** – exploring numerical methods and high-performance computing.  
