@@ -28,7 +28,17 @@ And other times, I just like to experiment and play around…
 ### 🔧 Work in Progress *(not yet public or on hold)*  
 - **[Notepad Clone](https://github.com/thomaswening/NotePadClone)** – a lightweight, dark-mode-friendly text editor for Windows 10 *(on hold)*.  
 - **Background Job Dispatcher** – Inspired by a topic from my workplace, I’m implementing this from scratch to learn about logging, data integrity, efficient high-volume data transfer, reporting, and interprocess communication. *(I plan to develop a simple client to define jobs to run.)*  
-- **Monte Carlo Integration Module** – A Python module comprising Monte Carlo integrators with different sampling algorithms, along with mathematical benchmarks against exact values.  
+- **Monte Carlo Integration Module** – A Python module comprising Monte Carlo integrators with different sampling algorithms, along with mathematical benchmarks against exact values.
+
+## ✍️ Recent Articles
+
+I try to post articles on LinkedIn at least once every few weeks, mostly about .NET and software development in general, often inspired by practical experiences at work.
+
+- **[How to Set Up a Windows 11 VM with Hyper-V – A Step-by-Step Guide for Developers](https://www.linkedin.com/pulse/how-set-up-windows-11-vm-hyper-v-step-by-step-guide-thomas-wening-cslxe/?trackingId=EXuAtVNIR3WwxOfxpmxedQ%3D%3D)**
+- **[What Post-Its have to do with C#’s ref, out, and in](https://www.linkedin.com/pulse/what-post-its-have-do-cs-ref-out-thomas-wening-waole/?trackingId=EXuAtVNIR3WwxOfxpmxedQ%3D%3D)**
+- **[Efficient Navigation in WPF using ContentPresenter and DataTemplates](https://www.linkedin.com/pulse/efficient-navigation-wpf-using-contentpresenter-thomas-wening-zdqie/?trackingId=Pa4T0iKTS52ro%2B5gGPT%2Ffw%3D%3D)**
+
+There are a lot more on my **[LinkedIn Profile](https://www.linkedin.com/in/thomas-wening-a96aa51b8/)**, drop by and let's connect!
 
 ## 📚 Currently Learning  
 - **GitHub Actions** – automating workflows and CI/CD pipelines.
