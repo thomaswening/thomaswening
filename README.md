@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Thomas Wening!  
 I’m a **Software Developer** with a background in **physics (M.Sc.)**, specializing in **C#/.NET**.  
 
-## 💻 Professional Work  
-I develop software for **data management and automation in life sciences**, particularly in **high-content screening (HCS) and image-based analysis**. My work currently focuses on:  
+Professionally, I develop software for **data management and automation in life sciences**, particularly in **high-content screening (HCS) and image-based analysis**. My work currently focuses on:  
 - **Building and optimizing WPF and WinForms applications** for laboratory environments.
 - **Handling large-scale experimental data**, integrating with databases, file storage and analytical tools.  
 - **Enhancing image processing and analysis workflows** to support research and diagnostics.  
@@ -11,7 +10,6 @@ I develop software for **data management and automation in life sciences**, part
 ➡️ **For professional repositories, visit my work-related GitHub profile:** 
 - [**thomaswening-work**](https://github.com/thomaswening-work) *(Currently no public repositories)*  
 
-## 🚀 Personal Projects  
 Outside of work, I explore new concepts and refine my skills by working on small projects. Sometimes legacy code at work limits how things *should* be done, so I rebuild concepts from scratch to deepen my understanding. 
 
 And other times, I just like to experiment and play around…  
