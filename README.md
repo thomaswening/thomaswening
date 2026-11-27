@@ -1,52 +1,86 @@
-# 👋 Hi, I’m Thomas Wening!  
-I’m a **Software Developer** with a background in **physics (M.Sc.)**, specializing in **C#/.NET**.  
+# Hi, I'm Thomas Wening
 
-Professionally, I develop software for **data management and automation in life sciences**, particularly in **high-content screening (HCS) and image-based analysis**. My work currently focuses on:  
-- **Building and optimizing WPF and WinForms applications** for laboratory environments.
-- **Handling large-scale experimental data**, integrating with databases, file storage and analytical tools.  
-- **Enhancing image processing and analysis workflows** to support research and diagnostics.  
-- **Designing robust, scalable architectures** for scientific software solutions.  
+Physicist (M.Sc.) turned software developer, based in Hamburg. I build software
+where being right matters more than being quick: laboratory software at work,
+tools for physicists and DJs in my own time.
 
-➡️ **For professional repositories, visit my work-related GitHub profile:** 
-- [**thomaswening-work**](https://github.com/thomaswening-work) *(Currently no public repositories)*  
+## What I'm building
 
-Outside of work, I explore new concepts and refine my skills by working on small projects. Sometimes legacy code at work limits how things *should* be done, so I rebuild concepts from scratch to deepen my understanding. 
+*Last updated: November 2026*
 
-And other times, I just like to experiment and play around…  
+### Tools for DJs
 
-![Sierpinski Carpet](fractal.png)  
+- **[ZipDJ fixes](https://github.com/thomaswening/zipdj-fixes)**: a userscript
+  that makes the ZipDJ record pool easier to dig through: sortable columns, up
+  to 500 tracks a page, downloaded tracks dimmed or hidden, real links to
+  releases and labels. *Works today:
+  [install from Greasy Fork](https://greasyfork.org/scripts/606173-zipdj-fixes).*
+- **[CrateEdit](https://github.com/thomaswening/CrateEdit)**: a tag editor for
+  DJ music collections that never touches your cue points. Edits are staged,
+  verified and crash-safe. Files it edits are checked in Rekordbox, Serato and
+  Traktor. C# / .NET 10, Windows and macOS. *The tag engine is done. The
+  application UI comes next.*
+- **[abendkasse](https://github.com/thomaswening/abendkasse)**: invoices for
+  DJs after the gig. Type in what changed, get the PDF, send it. A free web app
+  that keeps your data on your device. *Requirements stage.*
 
-*(Yes, that’s a [Sierpinski carpet](https://www.wikiwand.com/en/articles/Sierpinski_carpet).)*  
+### Tools for physicists
 
-### 🛠️ Current Projects  
-- **[PhaseShift](https://github.com/thomaswening/PhaseShift/tree/main)** – a stylish productivity timer app for developers, with Pomodoro, stopwatch, and custom timer modes.
-- **[Salter](https://github.com/thomaswening/salter)** – a console app exploring core security and user management concepts in .NET.  
-- **[ContactKeeper](https://github.com/thomaswening/ContactKeeper)** – a WPF-based contact management app using MaterialDesign.
+- **[Tante](https://github.com/thomaswening/Tante)**: a symbolic mathematics
+  engine for physicists, meant as a modern, well-documented successor to
+  [FORM](https://github.com/form-dev/form). C++. *Foundations: build and CI on
+  Windows, macOS and Linux. Nothing calculates yet.*
+- **PartonForge** *(private for now)*: a clean-room C++20 reimplementation of
+  the Parton Branching Monte Carlo for TMD parton densities. Its output files
+  already round-trip byte for byte against the reference Fortran code.
 
-### 🔧 Work in Progress *(not yet public or on hold)*  
-- **[Notepad Clone](https://github.com/thomaswening/NotePadClone)** – a lightweight, dark-mode-friendly text editor for Windows 10 *(on hold)*.  
-- **Background Job Dispatcher** – Inspired by a topic from my workplace, I’m implementing this from scratch to learn about logging, data integrity, efficient high-volume data transfer, reporting, and interprocess communication. *(I plan to develop a simple client to define jobs to run.)*  
-- **Monte Carlo Integration Module** – A Python module comprising Monte Carlo integrators with different sampling algorithms, along with mathematical benchmarks against exact values.
+### And one for myself
 
-## ✍️ Recent Articles
+- **[Skip the Fluff](https://github.com/thomaswening/skip-the-fluff)**: an
+  unofficial, distraction-free Android wrapper for duolingo.com that leaves out
+  the nags, popups and animations, never the exercises. Kotlin. *In design.*
 
-I try to post articles on LinkedIn at least once every few weeks, mostly about .NET and software development in general, often inspired by practical experiences at work.
+## How I work
 
-- **[How to Set Up a Windows 11 VM with Hyper-V – A Step-by-Step Guide for Developers](https://www.linkedin.com/pulse/how-set-up-windows-11-vm-hyper-v-step-by-step-guide-thomas-wening-cslxe/?trackingId=EXuAtVNIR3WwxOfxpmxedQ%3D%3D)**
-- **[What Post-Its have to do with C#’s ref, out, and in](https://www.linkedin.com/pulse/what-post-its-have-do-cs-ref-out-thomas-wening-waole/?trackingId=EXuAtVNIR3WwxOfxpmxedQ%3D%3D)**
-- **[Efficient Navigation in WPF using ContentPresenter and DataTemplates](https://www.linkedin.com/pulse/efficient-navigation-wpf-using-contentpresenter-thomas-wening-zdqie/?trackingId=Pa4T0iKTS52ro%2B5gGPT%2Ffw%3D%3D)**
+The same habits run through all of these projects:
 
-There are a lot more on my **[LinkedIn Profile](https://www.linkedin.com/in/thomas-wening-a96aa51b8/)**, drop by and let's connect!
+- **Requirements first.** Each project starts with numbered, testable
+  requirements and records its design choices as decision records.
+- **Checked against reality.** Physics code is validated against reference
+  implementations and published numbers, file handling against the real
+  applications that read the files.
+- **Refuse rather than guess.** When the input is not fully understood, the
+  software stops and says why instead of producing something plausible.
+- **Documented for the next reader**, including the scripts and CI workflows.
 
-## 📚 Currently Learning  
-- **GitHub Actions** – automating workflows and CI/CD pipelines.
-- **Scientific computing with C++20** – Monte Carlo integration, sampling algorithms, and Runge-Kutta methods.
+## What I learn
 
-### 📖 What I Want to Learn
-- **Scientific computing with C++** – exploring numerical methods and high-performance computing.  
-- **Web app and API development with ASP.NET** – designing scalable backends and modern web applications.  
-- **Native Windows desktop applications with WinUI 3** – building modern, fluid UIs for Windows.  
-- **Front-end development with JavaScript/TypeScript** – improving UI/UX skills and working with modern frameworks.  
+**[doubting-thomas](https://thomaswening.github.io/doubting-thomas/)** is my
+public knowledge base: one note per concept, from C# and build systems to
+numerics and physics. Each note states its key claims so that any AI can quiz
+me on them.
 
-📫 **Let’s connect!**  
-📧 [thomaswening94@gmail.com](mailto:thomaswening94@gmail.com) | [LinkedIn](https://www.linkedin.com/in/thomas-wening-a96aa51b8/)  
+## At work
+
+Professionally I develop Windows desktop software in C# / .NET (WPF) for
+laboratory environments: instrument control, experimental data and the
+analysis that runs on it.
+
+## Earlier projects
+
+Two smaller projects from my time learning .NET:
+[PhaseShift](https://github.com/thomaswening/PhaseShift), a WPF focus timer
+with Pomodoro and custom modes, and
+[Salter](https://github.com/thomaswening/salter), user management with
+encrypted storage on the console.
+
+## Contact
+
+📧 [thomaswening94@gmail.com](mailto:thomaswening94@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/thomas-wening-a96aa51b8/), where I also
+write about .NET and software development.
+
+![Sierpinski carpet](fractal.png)
+
+*(Yes, that's a [Sierpinski carpet](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_carpet).
+Sometimes I just like to play.)*
